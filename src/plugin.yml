@@ -1,0 +1,5 @@
+name: AntiHackedClient
+main: top.karpvp.antihackedclient.Main
+version: 1.0.0
+author: lseng
+description: AntiHackedClient
